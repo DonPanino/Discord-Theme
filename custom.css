@@ -6,7 +6,6 @@
 }
 .members_c8ffbb {
     background: rgba(31, 30, 30, 0.8);
-
 }
 .content_d125d2 {
     background: rgba(31, 30, 30, 0.8);
@@ -20,6 +19,7 @@
 .childContainer__91a9d {
     background: rgba(31, 30, 30, 0.8);
     filter: drop-shadow(0 1px 1px rgba(208, 195, 255, 1));
+    border-radius: 10px;
 }
 .container_e131a9 {
     background: rgba(31, 30, 30, 0.8);
