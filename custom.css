@@ -6,7 +6,7 @@
 }
 .members_c8ffbb {
     background: rgba(31, 30, 30, 0.8);
-    filter: drop-shadow(0 1px 1px rgba(208, 195, 255, 1));
+
 }
 .content_d125d2 {
     background: rgba(31, 30, 30, 0.8);
@@ -94,6 +94,9 @@
 .scrollerBase_d125d2 {
     background: rgba(31, 30, 30, 0.8);
 }
+.scrollerBase_d125d2::-webkit-scrollbar {
+  display: none; /* Hides the scrollbar entirely */
+}
 .fixedContent__409aa:after {
     background: rgba(31, 30, 30, 0.8);
 }
@@ -117,5 +120,8 @@
     background: rgba(31, 30, 30, 0.8);
 }
 .container__2637a {
+    background: rgba(31, 30, 30, 0.8);
+}
+.bar_c38106 {
     background: rgba(31, 30, 30, 0.8);
 }
